@@ -68,4 +68,4 @@ server.get('/verify', verify);
 
 // Start JSON Server
 server.use(router);
-server.listen(port);
+server.listen(port) ;
