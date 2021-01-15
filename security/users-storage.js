@@ -1,7 +1,9 @@
 class UserStorage {
 
   constructor() {
-    this.users = [];
+    this.users = [
+      
+    ];
   }
 
   registerUser(user) {

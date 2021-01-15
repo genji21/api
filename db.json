@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Bunny Paint",
-      "price": 400.000,
+      "price": 400,
       "category": "paint",
       "new": true,
       "image": [
@@ -405,6 +405,88 @@
       "name": "Gummy Camo Cap",
       "category": "accessories",
       "price": 190000
+    }
+  ],
+ 
+  "cart": [
+    {
+      "address": "176a đông hưng thuận 2 quận 12",
+      "name": "Đinh Trường Phi",
+      "phone": "0123456789",
+      "cart_list": [
+        {
+          "id": 8,
+          "name": "Singature Icon",
+          "price": 9,
+          "image": [
+            "https://product.hstatic.net/1000351433/product/23206f26-940e-45af-8694-9adf38eb9fb5_983d4c241d9144c99108fc584cd553dc_grande.jpg",
+            "https://product.hstatic.net/1000351433/product/1_a0a2a6dc66894a409db66d91760fdec0_grande.jpg",
+            "https://product.hstatic.net/1000351433/product/2_09e6bacfe19640cb941024a570ca0432_grande.jpg"
+          ],
+          "quanity": 1
+        }
+      ],
+      "id_cart": 1610356755181,
+      "date_cart": "2021-01-11T10:59:52.596Z",
+      "id": 1
+    },
+    {
+      "address": "176a đông hưng thuận 2 quận 12",
+      "name": "Đinh Trường Phi",
+      "phone": "0123456789",
+      "cart_list": [
+        {
+          "id": 2,
+          "name": "Counter",
+          "price": 65,
+          "category": "accessories ",
+          "new": true,
+          "image": [
+            "http://product.hstatic.net/1000351433/product/6bf7b650-7cbe-43eb-b5dd-3bfc0c3e221d_34fddc5251154049941f39736c0474d7_grande.jpg",
+            "http://product.hstatic.net/1000351433/product/5131fbf4-5a9f-4587-a1a3-15a868f81815_3df0bbd769ba48bfa3a3d5a4fef22a54_grande.jpg",
+            "http://product.hstatic.net/1000351433/product/bd2ac067-83b2-4e6f-b624-00fb450da5ad_a3a6775bac0f4acfabfc5ca861bb9431_master.jpg"
+          ],
+          "quanity": 1
+        },
+        {
+          "id": 3,
+          "name": "Fantasy Tie Dye",
+          "price": 15,
+          "category": "new",
+          "image": [
+            "https://product.hstatic.net/1000351433/product/a352baec-e717-4b93-9dad-5ac51b7bd379_8b667272947641fba3223765af8c5409_grande.jpg",
+            "https://product.hstatic.net/1000351433/product/9792bb1b-166c-4ea0-a9a2-8ca8986f6b24_18a905a5e6554acb91c51f691df48518_grande.jpg",
+            "https://product.hstatic.net/1000351433/product/3d976c06-d244-4db8-a20d-0da065d2ec59_c02731aba8bd4cd9b7793360f40fcd29_grande.jpg"
+          ],
+          "quanity": 1
+        }
+      ],
+      "id_cart": 1610365918586,
+      "date_cart": "2021-01-11T11:51:58.586Z",
+      "id": 2
+    },
+    {
+      "address": "176a đông hưng thuận 2 quận 12",
+      "name": "Đinh Trường Phi",
+      "phone": "0123456789",
+      "cart_list": [
+        {
+          "id": 2,
+          "name": "Counter",
+          "price": 65,
+          "category": "accessories ",
+          "new": true,
+          "image": [
+            "http://product.hstatic.net/1000351433/product/6bf7b650-7cbe-43eb-b5dd-3bfc0c3e221d_34fddc5251154049941f39736c0474d7_grande.jpg",
+            "http://product.hstatic.net/1000351433/product/5131fbf4-5a9f-4587-a1a3-15a868f81815_3df0bbd769ba48bfa3a3d5a4fef22a54_grande.jpg",
+            "http://product.hstatic.net/1000351433/product/bd2ac067-83b2-4e6f-b624-00fb450da5ad_a3a6775bac0f4acfabfc5ca861bb9431_master.jpg"
+          ],
+          "quanity": 3
+        }
+      ],
+      "id_cart": 1610367026215,
+      "date_cart": "2021-01-11T12:10:26.215Z",
+      "id": 3
     }
   ]
 }
